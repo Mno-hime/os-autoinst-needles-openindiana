@@ -1,0 +1,22 @@
+{
+  "tags": [
+    "alpine-poweroff"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 2,
+      "ypos": 302,
+      "width": 256,
+      "height": 18,
+      "type": "match"
+    },
+    {
+      "xpos": 204,
+      "ypos": 368,
+      "width": 95,
+      "height": 16,
+      "type": "match"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "width": 77,
+      "type": "match",
+      "height": 24,
+      "ypos": 241,
+      "xpos": 468
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-mate",
+    "network-setup"
+  ]
+}

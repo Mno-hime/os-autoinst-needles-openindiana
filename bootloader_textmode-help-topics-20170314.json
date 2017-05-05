@@ -1,0 +1,22 @@
+{
+  "properties": [],
+  "tags": [
+    "help-topics"
+  ],
+  "area": [
+    {
+      "xpos": 305,
+      "width": 102,
+      "height": 20,
+      "ypos": 14,
+      "type": "match"
+    },
+    {
+      "xpos": 11,
+      "width": 342,
+      "height": 252,
+      "ypos": 384,
+      "type": "match"
+    }
+  ]
+}

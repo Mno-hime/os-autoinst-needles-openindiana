@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "smartos-uname"
+  ],
+  "area": [
+    {
+      "xpos": 2,
+      "ypos": 2,
+      "width": 292,
+      "height": 15,
+      "type": "match"
+    }
+  ]
+}

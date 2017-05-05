@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 28,
+      "ypos": 14,
+      "width": 88,
+      "height": 21,
+      "type": "match"
+    },
+    {
+      "xpos": 8,
+      "ypos": 50,
+      "width": 259,
+      "height": 62,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "smartos-bootloader"
+  ]
+}

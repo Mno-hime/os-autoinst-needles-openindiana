@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "user-info-entered"
+  ],
+  "area": [
+    {
+      "xpos": 30,
+      "ypos": 90,
+      "width": 349,
+      "height": 191,
+      "type": "match"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "loading-smf-service-descriptions"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 2,
+      "ypos": 34,
+      "width": 312,
+      "height": 12,
+      "type": "match"
+    }
+  ]
+}

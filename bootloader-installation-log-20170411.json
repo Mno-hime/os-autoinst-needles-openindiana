@@ -1,0 +1,23 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "ypos": 743,
+      "height": 21,
+      "xpos": 61,
+      "width": 123
+    },
+    {
+      "xpos": 798,
+      "type": "match",
+      "height": 39,
+      "ypos": 590,
+      "width": 92
+    }
+  ],
+  "tags": [
+    "ENV-BUILD-20160421",
+    "installation-log"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 13,
+      "ypos": 290,
+      "width": 95,
+      "height": 79,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-BUILD-20160421",
+    "mate-openindiana-gui-installer-icon-selected"
+  ]
+}

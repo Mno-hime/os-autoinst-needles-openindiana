@@ -1,0 +1,30 @@
+{
+  "tags": [
+    "ENV-DESKTOP-mate",
+    "use-whole-disk-efi"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "width": 302,
+      "xpos": 345,
+      "ypos": 462,
+      "height": 41
+    },
+    {
+      "type": "match",
+      "width": 147,
+      "xpos": 345,
+      "height": 19,
+      "ypos": 241
+    },
+    {
+      "type": "match",
+      "width": 601,
+      "xpos": 204,
+      "ypos": 271,
+      "height": 19
+    }
+  ]
+}

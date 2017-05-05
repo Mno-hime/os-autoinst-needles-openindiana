@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "ypos": 2,
+      "height": 127,
+      "xpos": 0,
+      "width": 260
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-BUILD-20160421",
+    "mate-desktop-1280x768"
+  ]
+}

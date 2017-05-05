@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 323,
+      "ypos": 12,
+      "width": 59,
+      "height": 23,
+      "type": "match"
+    },
+    {
+      "xpos": 32,
+      "ypos": 44,
+      "width": 629,
+      "height": 79,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "disks"
+  ]
+}

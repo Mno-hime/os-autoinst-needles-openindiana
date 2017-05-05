@@ -1,0 +1,19 @@
+{
+  "properties": [
+    "workaround"
+  ],
+  "area": [
+    {
+      "height": 18,
+      "xpos": 2,
+      "ypos": 15,
+      "type": "match",
+      "width": 196
+    }
+  ],
+  "tags": [
+    "ENV-VIRSH_VMM_FAMILY-xen",
+    "ENV-VIRSH_VMM_TYPE-hvm",
+    "console2-selected"
+  ]
+}

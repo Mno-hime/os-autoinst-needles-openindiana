@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 1,
+      "ypos": 367,
+      "width": 182,
+      "height": 18,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "firstboot-configuring-devices"
+  ]
+}

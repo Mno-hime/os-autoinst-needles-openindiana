@@ -1,0 +1,22 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 397,
+      "height": 15,
+      "ypos": 244,
+      "width": 201,
+      "type": "match"
+    },
+    {
+      "width": 57,
+      "type": "match",
+      "xpos": 293,
+      "ypos": 344,
+      "height": 24
+    }
+  ],
+  "tags": [
+    "installing-openindiana"
+  ]
+}

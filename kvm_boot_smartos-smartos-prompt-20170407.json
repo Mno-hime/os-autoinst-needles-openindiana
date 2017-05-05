@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "smartos-prompt"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 0,
+      "ypos": 223,
+      "width": 567,
+      "height": 61,
+      "type": "match"
+    }
+  ]
+}

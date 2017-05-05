@@ -1,0 +1,30 @@
+{
+  "tags": [
+    "ENV-BUILD-20160421",
+    "firefox-openindiana-release-notes"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 91,
+      "ypos": 119,
+      "height": 16,
+      "type": "match",
+      "width": 182
+    },
+    {
+      "xpos": 335,
+      "height": 38,
+      "ypos": 181,
+      "type": "match",
+      "width": 210
+    },
+    {
+      "type": "match",
+      "ypos": 186,
+      "height": 27,
+      "xpos": 542,
+      "width": 106
+    }
+  ]
+}

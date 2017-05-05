@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "bootloader-menu-main-screen-media-boot"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "width": 628,
+      "type": "match",
+      "height": 343,
+      "xpos": 4,
+      "ypos": 5
+    }
+  ]
+}

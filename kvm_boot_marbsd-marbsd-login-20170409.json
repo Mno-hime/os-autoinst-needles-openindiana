@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "marbsd-login"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 0,
+      "ypos": 347,
+      "width": 61,
+      "height": 53,
+      "type": "match"
+    }
+  ]
+}

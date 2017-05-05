@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "time-zone-czech-republic"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 240,
+      "ypos": 512,
+      "width": 700,
+      "height": 65,
+      "type": "match"
+    }
+  ]
+}

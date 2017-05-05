@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "all-white-screen"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "ypos": 7,
+      "height": 37,
+      "xpos": 1,
+      "type": "match",
+      "width": 29
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-BOOTLOADER_REGRESSION_FEATURE-stress_bootloader_framebuffer",
+    "ok-shell-framebuffer"
+  ],
+  "area": [
+    {
+      "xpos": 1,
+      "ypos": 366,
+      "width": 286,
+      "height": 32,
+      "type": "match"
+    }
+  ]
+}

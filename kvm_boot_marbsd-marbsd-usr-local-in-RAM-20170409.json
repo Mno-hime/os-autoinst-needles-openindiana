@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "marbsd-usr-local-in-RAM"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 1,
+      "ypos": 383,
+      "width": 331,
+      "height": 14,
+      "type": "match"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "select-installation-log"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 248,
+      "ypos": 198,
+      "width": 188,
+      "height": 25,
+      "type": "match"
+    }
+  ]
+}

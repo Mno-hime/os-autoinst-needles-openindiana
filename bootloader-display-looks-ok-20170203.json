@@ -1,0 +1,22 @@
+{
+  "tags": [
+    "display-looks-ok"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "width": 247,
+      "xpos": 384,
+      "height": 22,
+      "ypos": 308
+    },
+    {
+      "type": "match",
+      "width": 68,
+      "xpos": 547,
+      "ypos": 390,
+      "height": 35
+    }
+  ],
+  "properties": []
+}

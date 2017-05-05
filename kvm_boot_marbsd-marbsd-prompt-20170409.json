@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "marbsd-prompt"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 2,
+      "ypos": 385,
+      "width": 79,
+      "height": 14,
+      "type": "match"
+    }
+  ]
+}

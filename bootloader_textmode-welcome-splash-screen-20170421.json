@@ -1,0 +1,23 @@
+{
+  "tags": [
+    "ENV-DESKTOP-mate",
+    "welcome-splash-screen"
+  ],
+  "area": [
+    {
+      "xpos": 401,
+      "height": 12,
+      "ypos": 246,
+      "type": "match",
+      "width": 196
+    },
+    {
+      "width": 447,
+      "type": "match",
+      "ypos": 318,
+      "height": 17,
+      "xpos": 202
+    }
+  ],
+  "properties": []
+}

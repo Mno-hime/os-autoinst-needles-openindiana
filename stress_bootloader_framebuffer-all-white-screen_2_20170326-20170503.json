@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "width": 17,
+      "type": "match",
+      "xpos": 4,
+      "height": 35,
+      "ypos": 11
+    }
+  ],
+  "tags": [
+    "all-white-screen"
+  ]
+}

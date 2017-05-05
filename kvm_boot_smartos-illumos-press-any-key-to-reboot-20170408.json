@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 0,
+      "ypos": 193,
+      "width": 204,
+      "height": 12,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "illumos-press-any-key-to-reboot"
+  ],
+  "properties": []
+}

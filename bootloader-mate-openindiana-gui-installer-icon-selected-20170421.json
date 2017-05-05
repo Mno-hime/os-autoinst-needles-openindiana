@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "mate-openindiana-gui-installer-icon-selected"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "width": 128,
+      "type": "match",
+      "height": 69,
+      "ypos": 587,
+      "xpos": 25
+    }
+  ]
+}

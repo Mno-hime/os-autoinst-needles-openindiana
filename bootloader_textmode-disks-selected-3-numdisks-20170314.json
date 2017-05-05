@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "width": 94,
+      "xpos": 35,
+      "height": 62,
+      "ypos": 125
+    },
+    {
+      "type": "match",
+      "height": 53,
+      "width": 108,
+      "xpos": 326,
+      "ypos": 127
+    }
+  ],
+  "tags": [
+    "ENV-BUILD-20160421",
+    "disks-selected-3-numdisks"
+  ],
+  "properties": []
+}

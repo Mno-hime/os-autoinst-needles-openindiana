@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 0,
+      "ypos": 2,
+      "width": 303,
+      "height": 14,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "firefly-uname"
+  ]
+}

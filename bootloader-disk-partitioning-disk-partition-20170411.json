@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "height": 41,
+      "ypos": 284,
+      "xpos": 181,
+      "width": 170
+    },
+    {
+      "width": 279,
+      "xpos": 190,
+      "ypos": 363,
+      "height": 51,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-BUILD-20160421",
+    "disk-partitioning-disk-partition"
+  ]
+}

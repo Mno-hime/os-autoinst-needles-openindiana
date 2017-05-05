@@ -1,0 +1,22 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 245,
+      "ypos": 616,
+      "width": 205,
+      "height": 54,
+      "type": "match"
+    },
+    {
+      "xpos": 566,
+      "ypos": 635,
+      "width": 49,
+      "height": 36,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "transfering-content-30pct"
+  ]
+}

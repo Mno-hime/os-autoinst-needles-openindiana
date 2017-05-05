@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "text-logged-in-user"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 2,
+      "width": 132,
+      "type": "match",
+      "height": 21,
+      "ypos": 81
+    }
+  ]
+}

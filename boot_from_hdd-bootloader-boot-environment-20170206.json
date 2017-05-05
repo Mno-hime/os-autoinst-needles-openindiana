@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "bootloader-boot-environment"
+  ],
+  "area": [
+    {
+      "xpos": 32,
+      "ypos": 160,
+      "width": 369,
+      "height": 111,
+      "type": "match"
+    }
+  ]
+}

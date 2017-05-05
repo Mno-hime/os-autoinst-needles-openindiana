@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-DESKTOP-mate",
+    "disks-selected-1-numdisks"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "width": 572,
+      "xpos": 208,
+      "height": 72,
+      "ypos": 317
+    }
+  ]
+}

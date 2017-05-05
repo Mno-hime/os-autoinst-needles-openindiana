@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-BUILD-20160421",
+    "disks-selected-2-numdisks"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "ypos": 125,
+      "width": 626,
+      "xpos": 31,
+      "height": 60,
+      "type": "match"
+    }
+  ]
+}

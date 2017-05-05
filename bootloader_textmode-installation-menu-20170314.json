@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "width": 541,
+      "xpos": 1,
+      "height": 111,
+      "ypos": 1,
+      "type": "match"
+    },
+    {
+      "xpos": 313,
+      "ypos": 1,
+      "width": 68,
+      "height": 17,
+      "type": "exclude"
+    }
+  ],
+  "tags": [
+    "installation-menu"
+  ],
+  "properties": []
+}
