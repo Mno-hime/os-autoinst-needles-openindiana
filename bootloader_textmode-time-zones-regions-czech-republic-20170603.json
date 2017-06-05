@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 225,
+      "type": "match",
+      "width": 139,
+      "ypos": 493,
+      "height": 15
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-mate",
+    "time-zones-regions-czech-republic"
+  ]
+}

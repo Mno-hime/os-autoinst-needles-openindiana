@@ -1,0 +1,22 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 0,
+      "height": 16,
+      "width": 1019,
+      "ypos": 127,
+      "type": "match"
+    },
+    {
+      "xpos": 11,
+      "ypos": 132,
+      "width": 21,
+      "height": 19,
+      "type": "exclude"
+    }
+  ],
+  "tags": [
+    "svirt"
+  ]
+}

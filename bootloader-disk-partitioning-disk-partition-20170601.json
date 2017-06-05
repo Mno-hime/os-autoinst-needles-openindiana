@@ -1,0 +1,22 @@
+{
+  "tags": [
+    "disk-partitioning-disk-partition"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "ypos": 293,
+      "height": 41,
+      "type": "match",
+      "xpos": 244,
+      "width": 170
+    },
+    {
+      "ypos": 393,
+      "height": 51,
+      "type": "match",
+      "xpos": 263,
+      "width": 279
+    }
+  ]
+}

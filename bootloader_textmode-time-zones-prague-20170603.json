@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-DESKTOP-mate",
+    "time-zones-prague"
+  ],
+  "area": [
+    {
+      "height": 92,
+      "ypos": 255,
+      "width": 208,
+      "type": "match",
+      "xpos": 211
+    }
+  ],
+  "properties": []
+}

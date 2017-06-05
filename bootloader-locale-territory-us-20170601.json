@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "locale-territory-us"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "width": 363,
+      "type": "match",
+      "xpos": 246,
+      "height": 22,
+      "ypos": 633
+    }
+  ]
+}

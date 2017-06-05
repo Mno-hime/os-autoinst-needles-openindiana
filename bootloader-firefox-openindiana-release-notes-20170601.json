@@ -1,0 +1,29 @@
+{
+  "tags": [
+    "firefox-openindiana-release-notes"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "height": 16,
+      "ypos": 95,
+      "xpos": 86,
+      "type": "match",
+      "width": 182
+    },
+    {
+      "ypos": 158,
+      "height": 38,
+      "type": "match",
+      "xpos": 323,
+      "width": 210
+    },
+    {
+      "height": 27,
+      "ypos": 163,
+      "type": "match",
+      "xpos": 526,
+      "width": 106
+    }
+  ]
+}

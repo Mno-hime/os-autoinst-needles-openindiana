@@ -1,0 +1,30 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "xpos": 464,
+      "width": 73,
+      "ypos": 219,
+      "height": 20
+    },
+    {
+      "type": "match",
+      "xpos": 200,
+      "width": 190,
+      "ypos": 323,
+      "height": 17
+    },
+    {
+      "ypos": 398,
+      "height": 98,
+      "type": "match",
+      "xpos": 204,
+      "width": 162
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-mate",
+    "network-auto-config"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "properties": [],
+  "tags": [
+    "installation-finished"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "xpos": 242,
+      "width": 473,
+      "ypos": 167,
+      "height": 129
+    },
+    {
+      "xpos": 229,
+      "type": "match",
+      "width": 102,
+      "height": 26,
+      "ypos": 106
+    },
+    {
+      "ypos": 686,
+      "height": 43,
+      "xpos": 842,
+      "type": "match",
+      "width": 107
+    },
+    {
+      "xpos": 896,
+      "ypos": 704,
+      "width": 68,
+      "height": 26,
+      "type": "exclude"
+    }
+  ]
+}

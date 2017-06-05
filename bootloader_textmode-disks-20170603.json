@@ -1,0 +1,23 @@
+{
+  "tags": [
+    "ENV-DESKTOP-mate",
+    "disks"
+  ],
+  "area": [
+    {
+      "ypos": 218,
+      "height": 23,
+      "xpos": 474,
+      "type": "match",
+      "width": 59
+    },
+    {
+      "ypos": 250,
+      "height": 22,
+      "type": "match",
+      "xpos": 210,
+      "width": 329
+    }
+  ],
+  "properties": []
+}
