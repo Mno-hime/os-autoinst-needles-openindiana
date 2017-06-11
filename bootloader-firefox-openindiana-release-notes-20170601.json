@@ -12,18 +12,25 @@
       "width": 182
     },
     {
-      "ypos": 158,
       "height": 38,
+      "ypos": 158,
       "type": "match",
-      "xpos": 323,
-      "width": 210
+      "width": 312,
+      "xpos": 323
     },
     {
-      "height": 27,
-      "ypos": 163,
-      "type": "match",
-      "xpos": 526,
-      "width": 106
+      "xpos": 33,
+      "ypos": 347,
+      "width": 135,
+      "height": 22,
+      "type": "match"
+    },
+    {
+      "xpos": 24,
+      "ypos": 60,
+      "width": 107,
+      "height": 21,
+      "type": "match"
     }
   ]
 }
