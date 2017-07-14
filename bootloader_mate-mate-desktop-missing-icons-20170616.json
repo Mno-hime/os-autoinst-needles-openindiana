@@ -1,0 +1,24 @@
+{
+  "properties": [
+    "workaround"
+  ],
+  "area": [
+    {
+      "xpos": 497,
+      "ypos": 320,
+      "width": 204,
+      "height": 25,
+      "type": "match"
+    },
+    {
+      "xpos": 486,
+      "ypos": 286,
+      "width": 62,
+      "height": 22,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "panel-object-quit-unexpectedly"
+  ]
+}

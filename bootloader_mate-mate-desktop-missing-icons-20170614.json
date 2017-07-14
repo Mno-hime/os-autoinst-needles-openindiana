@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "height": 194,
+      "ypos": 0,
+      "xpos": 0,
+      "width": 320
+    }
+  ],
+  "tags": [
+    "mate-desktop-missing-icons"
+  ]
+}

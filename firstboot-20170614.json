@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "xterm-enter-new-password"
+  ],
+  "area": [
+    {
+      "xpos": 270,
+      "ypos": 265,
+      "width": 79,
+      "height": 27,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}

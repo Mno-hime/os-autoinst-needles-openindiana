@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-VMM_VIRSH_FAMILY-virtualbox",
+    "disks-selected-2-numdisks"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "ypos": 93,
+      "height": 92,
+      "width": 626,
+      "xpos": 31
+    }
+  ]
+}
