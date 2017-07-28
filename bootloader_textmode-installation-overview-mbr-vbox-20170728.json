@@ -1,0 +1,30 @@
+{
+  "tags": [
+    "ENV-VIRSH_VMM_FAMILY-virtualbox",
+    "installation-overview-mbr"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "ypos": 19,
+      "type": "match",
+      "xpos": 259,
+      "width": 183,
+      "height": 11
+    },
+    {
+      "type": "match",
+      "ypos": 75,
+      "width": 268,
+      "height": 103,
+      "xpos": 39
+    },
+    {
+      "width": 286,
+      "height": 91,
+      "xpos": 42,
+      "type": "match",
+      "ypos": 266
+    }
+  ]
+}
