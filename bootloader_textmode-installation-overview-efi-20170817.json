@@ -1,0 +1,43 @@
+{
+  "area": [
+    {
+      "height": 19,
+      "type": "match",
+      "width": 191,
+      "xpos": 259,
+      "ypos": 15
+    },
+    {
+      "height": 23,
+      "type": "match",
+      "width": 401,
+      "ypos": 44,
+      "xpos": 22
+    },
+    {
+      "type": "match",
+      "height": 53,
+      "ypos": 78,
+      "xpos": 41,
+      "width": 267
+    },
+    {
+      "height": 24,
+      "type": "match",
+      "width": 224,
+      "ypos": 188,
+      "xpos": 40
+    },
+    {
+      "ypos": 270,
+      "xpos": 43,
+      "width": 293,
+      "type": "match",
+      "height": 97
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "installation-overview-efi"
+  ]
+}
