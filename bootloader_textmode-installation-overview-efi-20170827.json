@@ -1,0 +1,31 @@
+{
+  "area": [
+    {
+      "width": 191,
+      "height": 19,
+      "ypos": 220,
+      "xpos": 406,
+      "type": "match"
+    },
+    {
+      "type": "match",
+      "xpos": 208,
+      "ypos": 253,
+      "width": 357,
+      "height": 23
+    },
+    {
+      "ypos": 283,
+      "width": 238,
+      "height": 299,
+      "type": "match",
+      "xpos": 223
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-mate",
+    "ENV-VIRSH_VMM_FAMILY-virtualbox",
+    "installation-overview-efi"
+  ]
+}
