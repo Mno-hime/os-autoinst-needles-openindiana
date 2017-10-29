@@ -1,0 +1,30 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-mate",
+    "installation-overview-efi"
+  ],
+  "area": [
+    {
+      "ypos": 220,
+      "xpos": 406,
+      "width": 191,
+      "height": 19,
+      "type": "match"
+    },
+    {
+      "ypos": 253,
+      "xpos": 208,
+      "width": 357,
+      "type": "match",
+      "height": 23
+    },
+    {
+      "type": "match",
+      "height": 299,
+      "ypos": 283,
+      "width": 234,
+      "xpos": 223
+    }
+  ]
+}
