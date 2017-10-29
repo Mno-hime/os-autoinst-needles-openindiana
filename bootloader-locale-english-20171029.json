@@ -1,0 +1,29 @@
+{
+  "tags": [
+    "locale-english"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "ypos": 102,
+      "xpos": 219,
+      "width": 515,
+      "height": 40,
+      "type": "match"
+    },
+    {
+      "width": 82,
+      "xpos": 246,
+      "ypos": 163,
+      "type": "match",
+      "height": 20
+    },
+    {
+      "ypos": 596,
+      "width": 281,
+      "xpos": 334,
+      "type": "match",
+      "height": 27
+    }
+  ]
+}
