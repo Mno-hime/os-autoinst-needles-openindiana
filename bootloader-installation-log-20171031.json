@@ -1,0 +1,23 @@
+{
+  "tags": [
+    "ENV-DESKTOP-mate",
+    "installation-log"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "ypos": 163,
+      "height": 16,
+      "width": 123,
+      "type": "match",
+      "xpos": 410
+    },
+    {
+      "ypos": 594,
+      "width": 92,
+      "xpos": 793,
+      "type": "match",
+      "height": 39
+    }
+  ]
+}
