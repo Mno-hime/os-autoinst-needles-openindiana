@@ -1,0 +1,50 @@
+{
+  "area": [
+    {
+      "xpos": 73,
+      "type": "match",
+      "width": 159,
+      "height": 270,
+      "ypos": 56
+    },
+    {
+      "ypos": 103,
+      "height": 43,
+      "type": "match",
+      "xpos": 234,
+      "width": 100
+    },
+    {
+      "ypos": 330,
+      "height": 39,
+      "type": "match",
+      "xpos": 243,
+      "width": 117
+    },
+    {
+      "ypos": 75,
+      "width": 168,
+      "xpos": 394,
+      "type": "match",
+      "height": 20
+    },
+    {
+      "type": "match",
+      "xpos": 846,
+      "width": 106,
+      "height": 41,
+      "ypos": 688
+    },
+    {
+      "width": 64,
+      "type": "exclude",
+      "xpos": 895,
+      "height": 30,
+      "ypos": 704
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "mate-openindiana-gui-installer"
+  ]
+}
