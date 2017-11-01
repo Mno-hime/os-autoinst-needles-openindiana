@@ -1,0 +1,29 @@
+{
+  "properties": [],
+  "tags": [
+    "root-pool-type-mirror"
+  ],
+  "area": [
+    {
+      "xpos": 261,
+      "height": 27,
+      "type": "match",
+      "width": 180,
+      "ypos": 10
+    },
+    {
+      "ypos": 47,
+      "width": 164,
+      "type": "match",
+      "height": 51,
+      "xpos": 25
+    },
+    {
+      "xpos": 21,
+      "height": 35,
+      "type": "match",
+      "ypos": 125,
+      "width": 207
+    }
+  ]
+}
