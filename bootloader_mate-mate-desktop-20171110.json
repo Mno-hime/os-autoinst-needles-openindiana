@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 0,
+      "ypos": 1,
+      "width": 320,
+      "height": 208,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "mate-desktop",
+    "mate-desktop-1280x768"
+  ]
+}
