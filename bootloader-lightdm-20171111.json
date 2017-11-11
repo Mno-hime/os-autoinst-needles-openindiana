@@ -1,0 +1,29 @@
+{
+  "properties": [],
+  "tags": [
+    "lightdm"
+  ],
+  "area": [
+    {
+      "ypos": 4,
+      "xpos": 523,
+      "height": 20,
+      "width": 46,
+      "type": "match"
+    },
+    {
+      "xpos": 380,
+      "ypos": 332,
+      "type": "match",
+      "width": 263,
+      "height": 150
+    },
+    {
+      "xpos": 503,
+      "ypos": 396,
+      "width": 24,
+      "height": 23,
+      "type": "exclude"
+    }
+  ]
+}
