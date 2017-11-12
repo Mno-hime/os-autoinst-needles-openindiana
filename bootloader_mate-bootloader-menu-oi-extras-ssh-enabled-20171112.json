@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "bootloader-menu-oi-extras-ssh-enabled"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 30,
+      "ypos": 239,
+      "width": 259,
+      "height": 17,
+      "type": "match"
+    }
+  ]
+}
