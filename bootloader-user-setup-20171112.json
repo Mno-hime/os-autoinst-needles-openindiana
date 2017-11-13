@@ -1,0 +1,36 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "ypos": 101,
+      "width": 71,
+      "height": 26,
+      "xpos": 230
+    },
+    {
+      "width": 270,
+      "ypos": 163,
+      "type": "match",
+      "xpos": 243,
+      "height": 21
+    },
+    {
+      "type": "match",
+      "ypos": 281,
+      "width": 243,
+      "height": 20,
+      "xpos": 247
+    },
+    {
+      "type": "match",
+      "ypos": 472,
+      "width": 270,
+      "height": 17,
+      "xpos": 248
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "user-setup"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "display-looks-ok-buton"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 601,
+      "ypos": 400,
+      "width": 165,
+      "height": 20,
+      "type": "match"
+    }
+  ]
+}

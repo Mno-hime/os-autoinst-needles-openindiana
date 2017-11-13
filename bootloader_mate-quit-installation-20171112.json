@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "quit-installation"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "height": 24,
+      "xpos": 414,
+      "type": "match",
+      "ypos": 328,
+      "width": 257
+    }
+  ]
+}
