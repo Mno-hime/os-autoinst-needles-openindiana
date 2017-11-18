@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 483,
+      "ypos": 190,
+      "height": 13,
+      "width": 159,
+      "type": "match"
+    },
+    {
+      "height": 37,
+      "xpos": 514,
+      "ypos": 511,
+      "width": 306,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "mate-display-properties"
+  ]
+}
