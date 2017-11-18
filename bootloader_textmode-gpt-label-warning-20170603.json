@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 294,
+      "type": "match",
+      "width": 453,
+      "ypos": 338,
+      "height": 139
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-DESKTOP-mate",
+    "gpt-label-warning"
+  ]
+}

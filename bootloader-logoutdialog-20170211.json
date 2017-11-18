@@ -1,0 +1,29 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "xpos": 378,
+      "height": 20,
+      "ypos": 336,
+      "width": 191
+    },
+    {
+      "ypos": 456,
+      "type": "match",
+      "xpos": 621,
+      "height": 18,
+      "width": 82
+    },
+    {
+      "width": 51,
+      "ypos": 458,
+      "height": 17,
+      "xpos": 450,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "logoutdialog"
+  ]
+}

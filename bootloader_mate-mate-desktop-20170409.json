@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "mate-desktop"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "width": 320,
+      "type": "match",
+      "height": 194,
+      "ypos": 1,
+      "xpos": 0
+    }
+  ]
+}

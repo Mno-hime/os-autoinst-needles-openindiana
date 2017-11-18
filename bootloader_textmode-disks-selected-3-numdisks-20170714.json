@@ -1,0 +1,23 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-VIRSH_VMM_FAMILY-xen",
+    "disks-selected-3-numdisks"
+  ],
+  "area": [
+    {
+      "height": 50,
+      "xpos": 35,
+      "ypos": 125,
+      "type": "match",
+      "width": 116
+    },
+    {
+      "height": 48,
+      "ypos": 127,
+      "xpos": 359,
+      "type": "match",
+      "width": 75
+    }
+  ]
+}

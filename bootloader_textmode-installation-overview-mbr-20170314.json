@@ -1,0 +1,30 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "xpos": 259,
+      "width": 183,
+      "height": 11,
+      "ypos": 19
+    },
+    {
+      "ypos": 75,
+      "height": 22,
+      "xpos": 39,
+      "width": 195,
+      "type": "match"
+    },
+    {
+      "xpos": 41,
+      "width": 295,
+      "height": 268,
+      "ypos": 107,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-BUILD-20160421",
+    "installation-overview-mbr"
+  ],
+  "properties": []
+}

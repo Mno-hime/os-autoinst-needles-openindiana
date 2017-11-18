@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "height": 472,
+      "ypos": 107,
+      "type": "match",
+      "xpos": 170,
+      "width": 717
+    }
+  ],
+  "tags": [
+    "ENV-BUILD-20160421",
+    "time-zone"
+  ]
+}

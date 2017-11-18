@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 120,
+      "ypos": 117,
+      "width": 514,
+      "height": 167,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "gpt-label-warning"
+  ]
+}

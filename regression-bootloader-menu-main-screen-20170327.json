@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-BOOTLOADER_REGRESSION_FEATURE-stress_bootloader_framebuffer",
+    "bootloader-menu-main-screen-media-boot-textmode"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "xpos": 6,
+      "width": 628,
+      "ypos": 13,
+      "height": 343
+    }
+  ],
+  "properties": []
+}

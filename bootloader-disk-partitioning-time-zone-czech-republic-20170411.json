@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "height": 65,
+      "ypos": 513,
+      "type": "match",
+      "xpos": 176,
+      "width": 700
+    }
+  ],
+  "tags": [
+    "ENV-BUILD-20160421",
+    "time-zone-czech-republic"
+  ]
+}

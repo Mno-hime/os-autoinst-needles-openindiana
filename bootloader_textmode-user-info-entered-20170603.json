@@ -1,0 +1,24 @@
+{
+  "tags": [
+    "ENV-BUILD-20160421",
+    "ENV-DESKTOP-mate",
+    "user-info-entered"
+  ],
+  "area": [
+    {
+      "height": 215,
+      "ypos": 295,
+      "width": 349,
+      "xpos": 207,
+      "type": "match"
+    },
+    {
+      "xpos": 440,
+      "ypos": 472,
+      "width": 34,
+      "height": 24,
+      "type": "exclude"
+    }
+  ],
+  "properties": []
+}

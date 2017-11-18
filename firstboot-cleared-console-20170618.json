@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 270,
+      "ypos": 237,
+      "width": 476,
+      "height": 311,
+      "type": "match"
+    },
+    {
+      "xpos": 280,
+      "ypos": 236,
+      "width": 20,
+      "height": 18,
+      "type": "exclude"
+    }
+  ],
+  "tags": [
+    "cleared-console"
+  ],
+  "properties": []
+}

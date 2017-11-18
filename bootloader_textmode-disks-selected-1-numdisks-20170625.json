@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "xpos": 209,
+      "width": 572,
+      "height": 72,
+      "ypos": 299,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-DESKTOP-mate",
+    "ENV-VIRSH_VMM_FAMILY-virtualbox",
+    "disks-selected-1-numdisks"
+  ],
+  "properties": []
+}

@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "bootloader-menu-configuration"
+  ],
+  "area": [
+    {
+      "xpos": 32,
+      "ypos": 190,
+      "width": 176,
+      "height": 131,
+      "type": "match"
+    }
+  ]
+}

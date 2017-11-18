@@ -1,0 +1,23 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "height": 10,
+      "width": 145,
+      "xpos": 187,
+      "ypos": 19
+    },
+    {
+      "ypos": 204,
+      "width": 597,
+      "xpos": 40,
+      "height": 105,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-BUILD-20160421",
+    "select-partition"
+  ],
+  "properties": []
+}

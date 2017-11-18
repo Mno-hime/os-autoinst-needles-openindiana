@@ -1,0 +1,30 @@
+{
+  "tags": [
+    "ENV-BUILD-20160421",
+    "locale-english"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "width": 515,
+      "xpos": 165,
+      "type": "match",
+      "ypos": 106,
+      "height": 40
+    },
+    {
+      "ypos": 161,
+      "height": 20,
+      "type": "match",
+      "xpos": 184,
+      "width": 82
+    },
+    {
+      "width": 281,
+      "ypos": 577,
+      "height": 27,
+      "type": "match",
+      "xpos": 270
+    }
+  ]
+}

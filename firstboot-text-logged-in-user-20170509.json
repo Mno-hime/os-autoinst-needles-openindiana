@@ -1,0 +1,18 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "ypos": 81,
+      "width": 177,
+      "height": 21,
+      "xpos": 2
+    }
+  ],
+  "properties": [
+    "workaround"
+  ],
+  "tags": [
+    "ENV-VIRSH_VMM_FAMILY-xen",
+    "text-logged-in-user"
+  ]
+}

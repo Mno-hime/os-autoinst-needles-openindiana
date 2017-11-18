@@ -1,0 +1,23 @@
+{
+  "tags": [
+    "ENV-BUILD-20160421",
+    "installation-overview"
+  ],
+  "area": [
+    {
+      "height": 38,
+      "ypos": 107,
+      "type": "match",
+      "xpos": 171,
+      "width": 337
+    },
+    {
+      "xpos": 182,
+      "type": "match",
+      "ypos": 163,
+      "height": 334,
+      "width": 368
+    }
+  ],
+  "properties": []
+}

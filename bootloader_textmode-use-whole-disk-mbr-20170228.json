@@ -1,0 +1,29 @@
+{
+  "properties": [],
+  "tags": [
+    "use-whole-disk-mbr"
+  ],
+  "area": [
+    {
+      "xpos": 190,
+      "ypos": 271,
+      "width": 342,
+      "height": 17,
+      "type": "match"
+    },
+    {
+      "xpos": 188,
+      "ypos": 18,
+      "width": 143,
+      "height": 12,
+      "type": "match"
+    },
+    {
+      "xpos": 24,
+      "ypos": 47,
+      "width": 668,
+      "height": 18,
+      "type": "match"
+    }
+  ]
+}

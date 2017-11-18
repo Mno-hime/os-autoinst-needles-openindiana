@@ -1,0 +1,30 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 380,
+      "ypos": 162,
+      "height": 18,
+      "type": "match",
+      "width": 160
+    },
+    {
+      "type": "match",
+      "ypos": 187,
+      "height": 27,
+      "xpos": 148,
+      "width": 266
+    },
+    {
+      "xpos": 146,
+      "type": "match",
+      "ypos": 248,
+      "height": 24,
+      "width": 625
+    }
+  ],
+  "tags": [
+    "ENV-BUILD-20160421",
+    "installer-help"
+  ]
+}

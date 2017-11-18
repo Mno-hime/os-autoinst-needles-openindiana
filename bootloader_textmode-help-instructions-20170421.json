@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-DESKTOP-mate",
+    "help-instructions"
+  ],
+  "area": [
+    {
+      "height": 27,
+      "ypos": 239,
+      "xpos": 305,
+      "width": 375,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}

@@ -1,0 +1,31 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-VBOXHDDTYPE2-usb",
+    "ENV-VIRSH_VMM_FAMILY-virtualbox",
+    "installation-overview-mbr"
+  ],
+  "area": [
+    {
+      "height": 11,
+      "ypos": 19,
+      "width": 183,
+      "type": "match",
+      "xpos": 259
+    },
+    {
+      "ypos": 75,
+      "width": 268,
+      "height": 103,
+      "type": "match",
+      "xpos": 39
+    },
+    {
+      "xpos": 41,
+      "type": "match",
+      "height": 91,
+      "width": 295,
+      "ypos": 283
+    }
+  ]
+}

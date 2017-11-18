@@ -1,0 +1,29 @@
+{
+  "area": [
+    {
+      "ypos": 219,
+      "type": "match",
+      "width": 212,
+      "xpos": 1,
+      "height": 21
+    },
+    {
+      "height": 20,
+      "type": "match",
+      "xpos": 2,
+      "width": 140,
+      "ypos": 266
+    },
+    {
+      "type": "match",
+      "xpos": 2,
+      "width": 51,
+      "ypos": 243,
+      "height": 12
+    }
+  ],
+  "tags": [
+    "welcome-to-alpine"
+  ],
+  "properties": []
+}

@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "boot-uname"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "height": 14,
+      "type": "match",
+      "xpos": 0,
+      "width": 305,
+      "ypos": 1
+    }
+  ]
+}

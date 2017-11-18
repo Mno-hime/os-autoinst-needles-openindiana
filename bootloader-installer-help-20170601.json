@@ -1,0 +1,29 @@
+{
+  "properties": [],
+  "tags": [
+    "installer-help"
+  ],
+  "area": [
+    {
+      "xpos": 376,
+      "type": "match",
+      "width": 160,
+      "ypos": 167,
+      "height": 18
+    },
+    {
+      "ypos": 192,
+      "height": 27,
+      "type": "match",
+      "xpos": 149,
+      "width": 266
+    },
+    {
+      "height": 24,
+      "ypos": 261,
+      "width": 625,
+      "type": "match",
+      "xpos": 153
+    }
+  ]
+}

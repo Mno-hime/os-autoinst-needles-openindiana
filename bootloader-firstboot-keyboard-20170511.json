@@ -1,0 +1,22 @@
+{
+  "tags": [
+    "firstboot-keyboard"
+  ],
+  "area": [
+    {
+      "height": 13,
+      "xpos": 2,
+      "width": 555,
+      "ypos": 385,
+      "type": "match"
+    },
+    {
+      "ypos": 353,
+      "width": 134,
+      "type": "match",
+      "height": 14,
+      "xpos": 304
+    }
+  ],
+  "properties": []
+}

@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-BUILD-20160421",
+    "disk-partitioning"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "width": 303,
+      "type": "match",
+      "height": 35,
+      "ypos": 108,
+      "xpos": 171
+    }
+  ]
+}

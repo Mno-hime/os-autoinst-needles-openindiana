@@ -1,0 +1,37 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-BUILD-20160421",
+    "installation-overview-efi"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "ypos": 15,
+      "height": 19,
+      "width": 191,
+      "xpos": 259
+    },
+    {
+      "ypos": 44,
+      "xpos": 22,
+      "width": 401,
+      "height": 23,
+      "type": "match"
+    },
+    {
+      "type": "match",
+      "ypos": 78,
+      "height": 84,
+      "width": 200,
+      "xpos": 41
+    },
+    {
+      "type": "match",
+      "ypos": 191,
+      "width": 293,
+      "xpos": 43,
+      "height": 132
+    }
+  ]
+}

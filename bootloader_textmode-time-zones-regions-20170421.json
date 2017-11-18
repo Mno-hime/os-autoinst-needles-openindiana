@@ -1,0 +1,23 @@
+{
+  "tags": [
+    "ENV-DESKTOP-mate",
+    "time-zones-regions"
+  ],
+  "area": [
+    {
+      "width": 170,
+      "type": "match",
+      "ypos": 237,
+      "height": 26,
+      "xpos": 416
+    },
+    {
+      "width": 85,
+      "type": "match",
+      "height": 50,
+      "ypos": 300,
+      "xpos": 220
+    }
+  ],
+  "properties": []
+}

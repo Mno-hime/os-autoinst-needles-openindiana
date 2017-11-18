@@ -1,0 +1,44 @@
+{
+  "tags": [
+    "ENV-FLAVOR-Minimal",
+    "installation-overview-raidz"
+  ],
+  "area": [
+    {
+      "width": 188,
+      "type": "match",
+      "xpos": 258,
+      "height": 19,
+      "ypos": 16
+    },
+    {
+      "height": 19,
+      "ypos": 78,
+      "xpos": 44,
+      "type": "match",
+      "width": 263
+    },
+    {
+      "type": "match",
+      "width": 306,
+      "ypos": 108,
+      "height": 25,
+      "xpos": 45
+    },
+    {
+      "width": 53,
+      "type": "match",
+      "xpos": 41,
+      "height": 55,
+      "ypos": 144
+    },
+    {
+      "width": 508,
+      "type": "match",
+      "xpos": 44,
+      "height": 121,
+      "ypos": 219
+    }
+  ],
+  "properties": []
+}

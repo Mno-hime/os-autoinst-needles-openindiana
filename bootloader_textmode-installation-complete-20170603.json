@@ -1,0 +1,37 @@
+{
+  "tags": [
+    "ENV-DESKTOP-mate",
+    "installation-complete"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "xpos": 414,
+      "width": 190,
+      "ypos": 222,
+      "height": 17
+    },
+    {
+      "width": 485,
+      "type": "match",
+      "xpos": 203,
+      "height": 29,
+      "ypos": 269
+    },
+    {
+      "height": 35,
+      "ypos": 305,
+      "width": 553,
+      "xpos": 202,
+      "type": "match"
+    },
+    {
+      "ypos": 355,
+      "height": 17,
+      "type": "match",
+      "xpos": 206,
+      "width": 272
+    }
+  ],
+  "properties": []
+}

@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "desktop-runner"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "width": 337,
+      "xpos": 345,
+      "ypos": 316,
+      "height": 61
+    }
+  ],
+  "properties": []
+}

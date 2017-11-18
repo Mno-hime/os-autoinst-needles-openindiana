@@ -1,0 +1,29 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "width": 183,
+      "ypos": 19,
+      "height": 11,
+      "xpos": 259
+    },
+    {
+      "type": "match",
+      "width": 268,
+      "ypos": 75,
+      "height": 103,
+      "xpos": 39
+    },
+    {
+      "type": "match",
+      "width": 295,
+      "ypos": 283,
+      "height": 91,
+      "xpos": 41
+    }
+  ],
+  "tags": [
+    "installation-overview-mbr"
+  ],
+  "properties": []
+}

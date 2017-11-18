@@ -1,0 +1,30 @@
+{
+  "tags": [
+    "ENV-BUILD-20160421",
+    "installation-finished"
+  ],
+  "area": [
+    {
+      "width": 473,
+      "xpos": 176,
+      "height": 129,
+      "ypos": 158,
+      "type": "match"
+    },
+    {
+      "width": 102,
+      "xpos": 169,
+      "ypos": 104,
+      "height": 26,
+      "type": "match"
+    },
+    {
+      "width": 107,
+      "xpos": 787,
+      "height": 43,
+      "ypos": 684,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
