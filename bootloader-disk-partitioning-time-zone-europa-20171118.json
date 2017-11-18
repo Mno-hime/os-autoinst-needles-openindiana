@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "time-zone-europa"
+  ],
+  "area": [
+    {
+      "width": 154,
+      "type": "match",
+      "xpos": 242,
+      "ypos": 484,
+      "height": 30
+    }
+  ],
+  "properties": []
+}
