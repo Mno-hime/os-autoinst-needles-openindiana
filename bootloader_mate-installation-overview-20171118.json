@@ -1,0 +1,36 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "type": "match",
+      "width": 337,
+      "xpos": 231,
+      "ypos": 105,
+      "height": 38
+    },
+    {
+      "width": 266,
+      "type": "match",
+      "height": 362,
+      "ypos": 159,
+      "xpos": 243
+    },
+    {
+      "xpos": 344,
+      "ypos": 185,
+      "width": 51,
+      "height": 17,
+      "type": "exclude"
+    },
+    {
+      "xpos": 463,
+      "ypos": 201,
+      "width": 40,
+      "height": 21,
+      "type": "exclude"
+    }
+  ],
+  "tags": [
+    "installation-overview"
+  ]
+}
