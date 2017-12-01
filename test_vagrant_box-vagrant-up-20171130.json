@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 1,
+      "ypos": 642,
+      "width": 400,
+      "height": 69,
+      "type": "match"
+    },
+    {
+      "xpos": 325,
+      "ypos": 682,
+      "width": 102,
+      "height": 23,
+      "type": "exclude"
+    }
+  ],
+  "tags": [
+    "vagrant-up"
+  ],
+  "properties": []
+}

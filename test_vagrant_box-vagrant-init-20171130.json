@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "vagrant-init"
+  ],
+  "area": [
+    {
+      "xpos": 1,
+      "ypos": 176,
+      "width": 396,
+      "height": 14,
+      "type": "match"
+    }
+  ]
+}
