@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "vagrant-ssh"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 2,
+      "ypos": 706,
+      "width": 136,
+      "height": 45,
+      "type": "match"
+    }
+  ]
+}

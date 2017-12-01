@@ -1,0 +1,24 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "ypos": 224,
+      "width": 384,
+      "type": "match",
+      "height": 14,
+      "xpos": 2
+    },
+    {
+      "ypos": 256,
+      "width": 22,
+      "type": "match",
+      "height": 27,
+      "xpos": 0
+    }
+  ],
+  "tags": [
+    "ENV-BACKEND-svirt",
+    "ENV-VIRSH_VMM_FAMILY-virtualbox",
+    "svirt-asset-upload-hdd-image-uploaded"
+  ]
+}
