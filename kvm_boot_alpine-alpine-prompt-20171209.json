@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "ypos": 447,
+      "xpos": 0,
+      "height": 13,
+      "width": 142,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "alpine-prompt"
+  ],
+  "properties": []
+}
