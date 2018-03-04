@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 2,
+      "ypos": 721,
+      "width": 373,
+      "height": 42,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "vagrant-halt"
+  ]
+}

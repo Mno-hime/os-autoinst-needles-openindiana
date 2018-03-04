@@ -1,0 +1,17 @@
+{
+  "tags": [
+    "ENV-HDDMODEL-nvme",
+    "ENV-VMM_VIRSH_FAMILY-virtualbox",
+    "disks-selected-2-numdisks"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "width": 626,
+      "height": 60,
+      "xpos": 31,
+      "ypos": 125,
+      "type": "match"
+    }
+  ]
+}

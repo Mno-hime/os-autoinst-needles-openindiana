@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "vagrant-box-add"
+  ],
+  "area": [
+    {
+      "xpos": 2,
+      "ypos": 96,
+      "width": 247,
+      "height": 25,
+      "type": "match"
+    }
+  ]
+}

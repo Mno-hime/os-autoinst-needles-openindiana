@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "xpos": 1,
+      "ypos": 721,
+      "width": 380,
+      "height": 39,
+      "type": "match"
+    },
+    {
+      "xpos": 136,
+      "ypos": 720,
+      "width": 28,
+      "height": 16,
+      "type": "exclude"
+    }
+  ],
+  "tags": [
+    "vagrant-destroy"
+  ],
+  "properties": []
+}

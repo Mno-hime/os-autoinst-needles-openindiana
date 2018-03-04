@@ -1,0 +1,16 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-BACKEND-svirt",
+    "svirt-asset-upload-hdd-image-exists"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "height": 31,
+      "ypos": 0,
+      "xpos": 0,
+      "width": 211
+    }
+  ]
+}

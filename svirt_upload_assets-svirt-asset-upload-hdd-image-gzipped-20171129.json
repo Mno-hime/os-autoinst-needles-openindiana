@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 1,
+      "ypos": 447,
+      "width": 129,
+      "height": 28,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "ENV-VAGRANT_BOX-create",
+    "svirt-asset-upload-hdd-image-gzipped"
+  ],
+  "properties": []
+}

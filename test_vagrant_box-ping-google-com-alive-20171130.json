@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "ping-google-com-alive"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 3,
+      "ypos": 737,
+      "width": 150,
+      "height": 15,
+      "type": "match"
+    }
+  ]
+}
