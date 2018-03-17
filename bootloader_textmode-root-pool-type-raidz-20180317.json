@@ -1,0 +1,29 @@
+{
+  "properties": [],
+  "tags": [
+    "root-pool-type-raidz"
+  ],
+  "area": [
+    {
+      "width": 186,
+      "type": "match",
+      "xpos": 256,
+      "height": 22,
+      "ypos": 14
+    },
+    {
+      "ypos": 43,
+      "height": 76,
+      "xpos": 25,
+      "type": "match",
+      "width": 166
+    },
+    {
+      "xpos": 23,
+      "height": 54,
+      "ypos": 140,
+      "type": "match",
+      "width": 203
+    }
+  ]
+}
