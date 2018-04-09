@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 28,
+      "width": 259,
+      "height": 17,
+      "ypos": 291,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-UEFI-1",
+    "bootloader-menu-oi-extras-ssh-enabled"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "uefi-menu-device-manager"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 251,
+      "ypos": 21,
+      "width": 120,
+      "height": 21,
+      "type": "match"
+    }
+  ]
+}

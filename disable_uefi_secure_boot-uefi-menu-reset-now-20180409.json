@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 317,
+      "ypos": 212,
+      "width": 117,
+      "height": 18,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "uefi-menu-reset-now"
+  ]
+}

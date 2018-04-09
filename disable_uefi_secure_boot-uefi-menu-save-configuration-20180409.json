@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 214,
+      "ypos": 194,
+      "width": 219,
+      "height": 16,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "uefi-menu-save-configuration"
+  ],
+  "properties": []
+}

@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 27,
+      "width": 176,
+      "height": 157,
+      "type": "match",
+      "ypos": 232
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "ENV-UEFI-1",
+    "bootloader-menu-configuration"
+  ]
+}

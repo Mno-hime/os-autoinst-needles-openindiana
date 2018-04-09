@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 21,
+      "ypos": 247,
+      "width": 69,
+      "height": 22,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "uefi-menu-home-continue-button"
+  ],
+  "properties": []
+}

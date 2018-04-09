@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "width": 577,
+      "xpos": 0,
+      "ypos": 0,
+      "type": "match",
+      "height": 418
+    }
+  ],
+  "tags": [
+    "ENV-UEFI-1",
+    "bootloader-menu-main-screen-media-boot-textmode"
+  ],
+  "properties": []
+}

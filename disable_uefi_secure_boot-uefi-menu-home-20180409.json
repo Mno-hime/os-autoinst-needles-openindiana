@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "uefi-menu-home"
+  ],
+  "area": [
+    {
+      "xpos": 3,
+      "ypos": 173,
+      "width": 221,
+      "height": 60,
+      "type": "match"
+    }
+  ]
+}
