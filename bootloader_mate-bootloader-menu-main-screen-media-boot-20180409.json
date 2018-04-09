@@ -1,0 +1,16 @@
+{
+  "tags": [
+    "ENV-UEFI-1",
+    "bootloader-menu-main-screen-media-boot"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 5,
+      "ypos": 9,
+      "width": 566,
+      "height": 408,
+      "type": "match"
+    }
+  ]
+}

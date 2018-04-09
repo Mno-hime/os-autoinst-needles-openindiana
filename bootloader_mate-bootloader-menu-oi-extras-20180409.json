@@ -1,0 +1,23 @@
+{
+  "properties": [],
+  "tags": [
+    "ENV-UEFI-1",
+    "bootloader-menu-oi-extras"
+  ],
+  "area": [
+    {
+      "xpos": 29,
+      "width": 239,
+      "height": 15,
+      "ypos": 292,
+      "type": "match"
+    },
+    {
+      "type": "match",
+      "ypos": 196,
+      "height": 17,
+      "width": 256,
+      "xpos": 28
+    }
+  ]
+}

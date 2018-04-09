@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "uefi-menu-secure-boot-configuration"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 213,
+      "ypos": 21,
+      "width": 206,
+      "height": 18,
+      "type": "match"
+    }
+  ]
+}

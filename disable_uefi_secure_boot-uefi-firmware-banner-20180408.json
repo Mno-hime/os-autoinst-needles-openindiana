@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 291,
+      "ypos": 252,
+      "width": 223,
+      "height": 92,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "uefi-firmware-banner"
+  ],
+  "properties": []
+}

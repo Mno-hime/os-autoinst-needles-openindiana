@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 65,
+      "ypos": 209,
+      "width": 168,
+      "height": 21,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "uefi-menu-secure-boot-configuration-changed"
+  ]
+}
