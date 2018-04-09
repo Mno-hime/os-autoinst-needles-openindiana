@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "disks-selected-2-numdisks"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 31,
+      "type": "match",
+      "height": 60,
+      "ypos": 141,
+      "width": 626
+    }
+  ]
+}
