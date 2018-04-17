@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "dragonfly-system-halted"
+  ],
+  "area": [
+    {
+      "xpos": 0,
+      "ypos": 334,
+      "width": 295,
+      "height": 33,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}

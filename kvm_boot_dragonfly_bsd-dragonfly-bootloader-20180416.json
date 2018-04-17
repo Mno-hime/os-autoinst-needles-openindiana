@@ -1,0 +1,36 @@
+{
+  "properties": [],
+  "tags": [
+    "dragonfly-bootloader"
+  ],
+  "area": [
+    {
+      "xpos": 402,
+      "ypos": 123,
+      "width": 296,
+      "height": 250,
+      "type": "match"
+    },
+    {
+      "xpos": 0,
+      "ypos": 81,
+      "width": 277,
+      "height": 15,
+      "type": "match"
+    },
+    {
+      "xpos": 5,
+      "ypos": 127,
+      "width": 239,
+      "height": 16,
+      "type": "match"
+    },
+    {
+      "xpos": 0,
+      "ypos": 385,
+      "width": 90,
+      "height": 12,
+      "type": "match"
+    }
+  ]
+}

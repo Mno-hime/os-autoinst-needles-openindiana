@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "dragonfly-installer-reboot"
+  ],
+  "area": [
+    {
+      "xpos": 455,
+      "ypos": 306,
+      "width": 187,
+      "height": 12,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}

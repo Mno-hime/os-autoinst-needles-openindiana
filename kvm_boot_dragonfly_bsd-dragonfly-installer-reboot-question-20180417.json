@@ -1,0 +1,22 @@
+{
+  "tags": [
+    "dragonfly-installer-reboot-question"
+  ],
+  "area": [
+    {
+      "xpos": 184,
+      "ypos": 117,
+      "width": 347,
+      "height": 111,
+      "type": "match"
+    },
+    {
+      "xpos": 319,
+      "ypos": 243,
+      "width": 75,
+      "height": 12,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}

@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "dragonfly-login"
+  ],
+  "area": [
+    {
+      "xpos": 0,
+      "ypos": 384,
+      "width": 55,
+      "height": 14,
+      "type": "match"
+    }
+  ]
+}

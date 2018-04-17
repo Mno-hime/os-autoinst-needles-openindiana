@@ -1,0 +1,29 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 0,
+      "ypos": 274,
+      "width": 192,
+      "height": 14,
+      "type": "match"
+    },
+    {
+      "xpos": 0,
+      "ypos": 301,
+      "width": 662,
+      "height": 33,
+      "type": "match"
+    },
+    {
+      "xpos": 0,
+      "ypos": 350,
+      "width": 144,
+      "height": 19,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "dragonfly-banner"
+  ]
+}

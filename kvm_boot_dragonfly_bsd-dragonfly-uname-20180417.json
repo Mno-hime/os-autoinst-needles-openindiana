@@ -1,0 +1,22 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 0,
+      "ypos": 128,
+      "width": 83,
+      "height": 15,
+      "type": "match"
+    },
+    {
+      "xpos": 154,
+      "ypos": 130,
+      "width": 60,
+      "height": 12,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "dragonfly-uname"
+  ]
+}
